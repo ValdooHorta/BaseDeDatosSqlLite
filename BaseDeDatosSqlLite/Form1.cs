@@ -17,7 +17,7 @@ namespace BaseDeDatosSqlLite
         //agregamos la base de datos
         string path = "data_table.db";
         string cs = @"URI=file:" + Application.StartupPath + "\\data_table.db";
-         // labse de datos se crea en la carpeta DEBUG
+         // la base de datos se crea en la carpeta DEBUG
 
         SQLiteConnection  conn;
         SQLiteCommand cmd;
