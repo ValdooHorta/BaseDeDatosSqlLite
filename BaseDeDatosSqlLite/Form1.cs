@@ -146,6 +146,12 @@ namespace BaseDeDatosSqlLite
                 Console.WriteLine("No se pudo eliminar la informacion");
                 }
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
     
 }
+//Mizuno2
